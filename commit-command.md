@@ -29,5 +29,6 @@
 В первой строке вводим свой комментарий, затем жмем клавишу **ESC** и вводим команду `:wq` и нажимаем **Enter**. вы увидите:
 
 ```
-
+[main <SHA1HESH>] changes in file commit-command
+ 1 file changed, 18 insertions(+)
 ```
