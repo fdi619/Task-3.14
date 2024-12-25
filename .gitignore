@@ -1,0 +1,22 @@
+# Logs
+logs/
+
+# Database
+db.sqlite
+
+# Build artifacts
+build/
+
+# Dependencies
+/node_modules
+/vendor
+
+# Editor directories and files
+.idea/
+*.swp
+Thumbs.db
+
+# Generated files
+*.class
+*.pyc
+__pycache__/
