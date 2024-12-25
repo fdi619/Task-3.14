@@ -7,7 +7,7 @@
 При введении команды терминал отображет данное сообщение:
 
 ```
-commit <SHA1HESH> (HEAD -> main, origin/main)
+commit <SHA1HASH> (HEAD -> main, origin/main)
 Author: <Name & secodn name> <your_e_mail@example.com>
 Date:   Wed Dec 25 22:31:05 2024 +0300
 
