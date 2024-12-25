@@ -13,3 +13,21 @@
 - переменная среды `EDITOR`
 
 ###### \*_обычно это **VIM** редактор_
+
+При выполнении команды `git commit` вы увидите в вашем редакторе:
+
+```
+|
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#       modified:   <file>
+```
+
+В первой строке вводим свой комментарий, затем жмем клавишу **ESC** и вводим команду `:wq` и нажимаем **Enter**. вы увидите:
+
+```
+
+```
