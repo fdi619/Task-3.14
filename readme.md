@@ -5,7 +5,7 @@
 ### _Cодержание_:
 
 1. **[Что такое GIT](./what-is-Git.md)**
-2. **[Начало Работы](./start-work.md)**
+2. **[Начало работы](./start-work.md)**
 3. **[Команда `git init`](./init-command.md)**
 4. **[Команда `git add`](./add-command.md)**
-5. **[Команда `git commit`]()**
+5. **[Команда `git commit`](./commit-command.md)**
