@@ -10,3 +10,4 @@
 4. **[Команда `git add`](./add-command.md)**
 5. **[Команда `git commit`](./commit-command.md)**
 6. **[Команда `git log`](./log-command.md)**
+7. **[Команда `git checkout`](./checkout-command.md)**
