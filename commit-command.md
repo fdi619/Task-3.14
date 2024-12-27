@@ -32,3 +32,5 @@
 [main <SHA1HASH>] changes in file commit-command
  1 file changed, 18 insertions(+)
 ```
+
+[< Предыдущая страница](./add-command.md)...............[следующая страница >](./log-command.md)

@@ -17,3 +17,5 @@ zypper in git-core
 
 - для **_MacOS_** терминале вводим `brew install git`
 - Для **_[Windows](https://git-scm.com/downloads/win "скачать Git")_** нужно будет скачать с официального сайта.
+
+[< Предыдущая страница](./what-is-Git.md)...............[следующая страница >](./init-command.md)

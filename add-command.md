@@ -18,3 +18,5 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:  <file>
 ```
+
+[< Предыдущая страница](./init-command.md)...............[следующая страница >](./commit-command.md)

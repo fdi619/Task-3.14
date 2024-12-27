@@ -12,3 +12,4 @@
 6. **[Команда `git log`](./log-command.md)**
 7. **[Команда `git checkout`](./checkout-command.md)**
 8. **[Команда `git tag`](./tag-command.md)**
+9. **[Отмена локальных изменений (до индексации)](./break-changes.md)**

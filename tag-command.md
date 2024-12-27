@@ -12,7 +12,7 @@
 
 Пример
 
-_Прозводим выззов списка изменений_
+_Производим вызов списка изменений_
 
 ```
 git log
@@ -21,7 +21,7 @@ Author: Frolov Dmitriy <my_e_mail@examle.com>
 Date:   2024-12-25
 ```
 
-_присваиваем последнему коммиту тэг **version1**_
+_присваиваем последнему коммиту тэг_ **version1**
 
 ```
 git tag version1
@@ -31,7 +31,7 @@ Author: Frolov Dmitriy <my_e_mail@examle.com>
 Date:   2024-12-25
 ```
 
-_с помощью команды `git checkout <tag name>^` переключаемся на предыдущий коммит_
+_с помощью команды_ `git checkout <tag name>^` _переключаемся на предыдущий коммит_
 
 ```
 git checkout version1^
@@ -42,7 +42,7 @@ changes and commit them, and you can discard any commits you make in this
 state without impacting any branches by switching back to a branch.
 ```
 
-_теперь присваиваем тэг **version2** данному коммиту_
+_теперь присваиваем тэг_ **version2** _данному коммиту_
 
 ```
 git tag version2
@@ -51,10 +51,12 @@ Author: Дмитрий Фролов <my_e_mail@examle.com>
 Date:   2024-12-20
 ```
 
-_после все манипуляций мы можем перемещать на **HEAD** между тэгами_
+_после всех манипуляций мы можем перемещать наш **HEAD** между тэгами_
 
 ```
 git checkout version1
 Previous HEAD position was 6306de0
 HEAD is now at 4a76afe
 ```
+
+[< Предыдущая страница](./checkout-command.md)...............[следующая страница >](./break-changes.md)
