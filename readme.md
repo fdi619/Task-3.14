@@ -11,3 +11,4 @@
 5. **[Команда `git commit`](./commit-command.md)**
 6. **[Команда `git log`](./log-command.md)**
 7. **[Команда `git checkout`](./checkout-command.md)**
+8. **[Команда `git tag`](./tag-command.md)**
