@@ -13,3 +13,4 @@
 7. **[Команда `git checkout`](./checkout-command.md)**
 8. **[Команда `git tag`](./tag-command.md)**
 9. **[Отмена локальных изменений (до индексации)](./break-changes.md)**
+10. **[Отмена проиндексироанных изменений(перед коммитом)](./reset-added-file.md)**
