@@ -100,4 +100,4 @@ Date:   2024-12-20
     created on GitHub
 ```
 
-[< Предыдущая страница](./reset-added-file.md)...............[следующая страница >](./commit-reset.md)
+[< Предыдущая страница](./reset-added-file.md)...............[следующая страница >](./commit-changes.md)
