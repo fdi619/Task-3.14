@@ -70,4 +70,4 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 ```
 
-[< Предыдущая страница](./break-changes.md)...............[следующая страница >](./reset-added-file.md)
+[< Предыдущая страница](./break-changes.md)...............[следующая страница >](./commit-reset.md)
