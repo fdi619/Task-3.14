@@ -53,4 +53,6 @@ Date:   2024-12-28
     changes in happy.txt and new added sring
 ```
 
+---
+
 [< Предыдущая страница](./commit-reset.md)...............[следующая страница >](./commit-changes.md)
