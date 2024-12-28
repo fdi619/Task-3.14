@@ -19,4 +19,6 @@ Changes to be committed:
         new file:  <file>
 ```
 
-[< Предыдущая страница](./init-command.md)...............[следующая страница >](./commit-command.md)
+---
+
+[< Предыдущая страница](./03-init-command.md)...............[следующая страница >](./05-commit-command.md)

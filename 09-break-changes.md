@@ -51,4 +51,6 @@ PS C:\Users\folder> cat happy*
 Happy New Year
 ```
 
-[< Предыдущая страница](./tag-command.md)...............[следующая страница >](./reset-added-file.md)
+---
+
+[< Предыдущая страница](./08-tag-command.md)...............[следующая страница >](./10-reset-added-file.md)

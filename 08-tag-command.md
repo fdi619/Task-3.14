@@ -59,4 +59,6 @@ Previous HEAD position was 6306de0
 HEAD is now at 4a76afe
 ```
 
-[< Предыдущая страница](./checkout-command.md)...............[следующая страница >](./break-changes.md)
+---
+
+[< Предыдущая страница](./07-checkout-command.md)...............[следующая страница >](./09-break-changes.md)
