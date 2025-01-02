@@ -123,4 +123,4 @@ PS C:\Users\nadya\OneDrive\git-learning> git log --all --graph --pretty=oneline
 
 ---
 
-[< Предыдущая страница](./15-tree-merge.md)...............[следующая страница >](./16-git-conflict.mds)
+[< Предыдущая страница](./15-tree-merge.md)...............[следующая страница >](./17-clone-repo.md)
