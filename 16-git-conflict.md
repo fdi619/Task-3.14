@@ -72,7 +72,7 @@ PS C:\Users\nadya\OneDrive\git-learning>
 
 Как мы видим возникает конфликт.
 
-- _посмотри как его видит_ **GIT** _и выполним команду_ `git merge` _с опцией_ `--abort`_, которая отменяет слияение_:
+- _посмотри как его видит_ **GIT** _а затем выполним команду_ `git merge` _с опцией_ `--abort`_, которая отменяет слияние_:
 
 ```
 PS C:\Users\nadya\OneDrive\git-learning> git status

@@ -25,7 +25,7 @@ Mode                 LastWriteTime         Length Name
 -a----        02.01.2025     15:34            126 second-text-file.txt
 ```
 
-Давайте посмотрим как **GIT** видит наши репозитори:
+Давайте посмотрим как **GIT** видит наши репозиторий:
 
 ```
 PS C:\Users\nadya\OneDrive\learning-remote> git remote show origin

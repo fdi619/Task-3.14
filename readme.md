@@ -23,3 +23,9 @@
 17. **[Клонирование репозиториев](./17-clone-repo.md)**
 18. **[Синхронизация репозиториев](./18-repo-sinc.md)**
 19. **[Добавление удалённого репозитория на **GitHub**](./19-github-repo.md)**
+
+---
+
+##### Licence: [MIT](./license.md)
+
+##### Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)

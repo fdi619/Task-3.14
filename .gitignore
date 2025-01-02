@@ -1,22 +1,61 @@
-# Logs
-logs/
+# Лог-файлы
+*.log
 
-# Database
-db.sqlite
+# Системные файлы macOS
+.DS_Store
 
-# Build artifacts
+# Файлы компиляции C и C++
+*.o
+*.so
+*.dylib
+*.a
+
+# Файлы среды разработки Visual Studio Code
+.vscode/
+
+# Файлы среды разработки JetBrains (IntelliJ IDEA, WebStorm, etc.)
+.idea/
+*.iml
+
+# Файлы сборки Java
+target/
 build/
 
-# Dependencies
-/node_modules
-/vendor
+# Файлы Node.js
+node_modules/
+npm-debug.log
 
-# Editor directories and files
-.idea/
-*.swp
-Thumbs.db
-
-# Generated files
-*.class
-*.pyc
+# Файлы Python
 __pycache__/
+*.pyc
+*.pyd
+.Python
+
+# Файлы виртуальных окружений Python
+venv/
+.env/
+
+# Файлы конфигурации Docker
+.dockerenv
+Dockerfile*
+
+# Файлы базы данных SQLite
+*.db
+
+# Файлы конфигурации Gradle
+.gradle/
+
+# Файлы среды разработки Android Studio
+.local/
+.captures/
+.externalNativeBuild/
+.cxx/
+
+# Файлы среды разработки Xcode
+xcuserdata/
+DerivedData/
+
+# Файлы среды разработки Unity
+Library/
+Temp/
+obj/
