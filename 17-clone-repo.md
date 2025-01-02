@@ -46,4 +46,4 @@ PS C:\Users\nadya\OneDrive\learning-remote> git remote show origin
 
 ---
 
-[< Предыдущая страница](./16-git-conflict.md)...............[следующая страница >](./17-clone-repo.md)
+[< Предыдущая страница](./16-git-conflict.md)...............[следующая страница >](./18-repo-sinc.md)
